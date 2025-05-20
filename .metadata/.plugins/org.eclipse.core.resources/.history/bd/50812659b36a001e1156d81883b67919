@@ -1,8 +1,0 @@
-package programs;
-
-public class DriverTest {
-	public static void main(String[] args) {
-	String str = Passport.validateAndFormat("tYe");
-	System.out.println(str);
-	}
-}

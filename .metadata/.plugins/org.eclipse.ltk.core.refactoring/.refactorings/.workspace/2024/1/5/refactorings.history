@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;P1-description.zip_expanded&apos;" deleteContents="false" description="Delete resource &apos;P1-description.zip_expanded&apos;" element1="/P1-description.zip_expanded" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706717334548"/>&#x0A;<refactoring comment="Delete 2 resources" deleteContents="false" description="Delete 2 resources" element1="/TubeVideosManager.zip_expanded" element2="/TubeVideosManager" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1706718265795"/>
-</session>
